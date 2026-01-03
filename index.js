@@ -10,7 +10,7 @@ const client = new Client();
 
 client.on('ready', () => { 
 
-  client.user.setActivity("DARK OP", {type: "STREAMING", url: "https://www.twitch.tv/darkwarrior9863"})
+  client.user.setActivity("DARK OP", {type: "WATCHING", url: "https://prmgvyt.io.vn"})
 
    console.log(`${client.user.username} Successfully Logged in!`)
 
